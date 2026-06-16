@@ -1,4 +1,4 @@
-DDoS Incident Reports 📋
+# DDoS Incident Reports 📋
 
 A collection of realistic DDoS incident reports documenting the full lifecycle of an attack — from initial detection through mitigation, resolution, and post-incident review.
 
